@@ -6,7 +6,7 @@ This project was completed as part of the **Tata Data Visualisation: Empowering 
 
 
 
-![Tata Retail Analytics Dashboard](path/to/your/dashboard-screenshot.png)
+![Tata_retail_analytics_dashbord](Retail_analytics_dashbord.png)
 
 ---
 
